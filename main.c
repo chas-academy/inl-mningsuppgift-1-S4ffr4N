@@ -7,6 +7,7 @@ int main()
     srand(1);
 
    
+    
     // Your code goes here
 
     return 0;
